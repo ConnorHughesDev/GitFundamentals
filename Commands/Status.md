@@ -22,7 +22,7 @@ git status
 
 # Resources
 
-- [Git Status Documentatio](https://git-scm.com/docs/git-status)
+- [Git Status Documentation](https://git-scm.com/docs/git-status)
 
 ---
 
